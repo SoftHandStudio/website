@@ -148,7 +148,6 @@
             height: 130px;
             background-color: #424242;
         }
-        #imglogo {}
         #Psgelis {
             background-color: #424242;
         }
@@ -273,8 +272,14 @@
             overflow: auto;
             background-color: white;
         }
+        #StudioLogo {
+            padding: 1%;
+        }
+        #StudioLogo img {
+            width: 200px;
+        }
         #teamsize {
-            padding: 5% 20% 0px 20%;
+            padding: 2% 20% 0px 20%;
             max-width: 1500px;
             text-align: center;
             letter-spacing: 3px;
@@ -408,6 +413,12 @@
         #ourteam {
             overflow: auto;
             background-color: #808080;
+        }
+        #RWDStudioLogo{
+            text-align: center;
+        }
+        #RWDStudioLogo img{
+            width: 200px;
         }
         #teamsize {
             padding: 5% 5% 0px 5%;
